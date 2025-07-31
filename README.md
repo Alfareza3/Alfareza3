@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PFSOFT
 - 🌱 I’m currently learning PHP native
 - 💬 Ask me about Programing 🧑‍💻, Coffe☕ and Football ⚽
-- 📫 How to reach me: 🅾@alfareza.3 ✉dimasfall@gmail.com
+- 📫 How to reach me: 🅾@alfareza.3 ✉dimasfaal@gmail.com
