@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="img/2.png" alt="Dimas Fahri Alfareza" width="200">
-</p>
-
+![Dimas Fahri Alfareza](img/2.png)
 ---
 
 ## 🌐 Socials
