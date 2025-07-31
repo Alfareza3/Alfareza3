@@ -13,15 +13,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alfareza3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">Play games with me!</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfareza3/Alfareza3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alfareza3/Alfareza3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alfareza3/Alfareza3/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">Play games with me!</p>
 
 ###
 
@@ -63,4 +55,3 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 ![Alfareza3 GitHub stats](https://github-readme-stats.vercel.app/api?username=alfareza3&show_icons=true&theme=gotham) -->
-
