@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello World I'm Dimas Fahri Alfareza👋
+
+![Dimas Fahri Alfareza](img/BannerDimas.png)
 
 <!--
 **Alfareza3/Alfareza3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on PFSOFT
+- 🌱 I’m currently learning PHP native
+- 💬 Ask me about Programing 🧑‍💻, Coffe☕ and Football ⚽
+- 📫 How to reach me: 🅾@alfareza.3 ✉dimasfall@gmail.com
